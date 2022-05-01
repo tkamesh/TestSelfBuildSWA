@@ -1,4 +1,5 @@
 {
+    "apiRuntime": "dotnet:6.0",
     "navigationFallback": {
         "rewrite": "/index.html"
     }
